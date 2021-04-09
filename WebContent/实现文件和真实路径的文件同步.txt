@@ -1,0 +1,10 @@
+eclipse 实现文件和真实路径的文件同步，添加文件后不需要刷新eclipse就
+可以同步的方法
+在导入文件到eclipse 或者在文件中添加文件，一般是不会同
+步的需要手动刷新一下，那怎么解决这个问题呢？
+
+
+点击
+window -perferences - Workspace（在搜索框中搜索，是General目录下的）
+==> 然后
+refreshing using ...polling

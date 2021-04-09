@@ -1,0 +1,5 @@
+1） window -perferences - Workspace（在搜索框中搜索，是General目录下的）
+==> 然后
+text file encoding..
+
+2）Windows->Preferences->搜索jsp->选择（JSP Files）->选择utf-8编码->保存。
